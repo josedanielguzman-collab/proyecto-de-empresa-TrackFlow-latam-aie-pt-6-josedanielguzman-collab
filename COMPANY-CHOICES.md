@@ -8,6 +8,7 @@ Todos los Departamentos de la empresa me parecen interesantes en cuanto a los pr
 
 El reto de automatización o IA del milestone map que más tengo ganas de construir es: La asignación de transportista de forma automatizada, con los datos históricos de rendimiento, tasas de entrega a tiempo, incidencias por ruta y costo por kg, con el correspondiente seguimiento de paquetes en tiempo real. Sin embargo, quisiera construir todos los retos de automatización de los distintos departamentos.
 
+# My AI Agent Idea
 Se propondría la creación de un Agente de IA, que actue como un Coordinador Logistico Digital. Dicho agente actuaría de la siguiente forma:
 revisaría cada vez que un cliente compra algo, este asistente revisa qué empresas de transporte pueden llevar el paquete. En un segundo, compara precios y recuerda quién trabaja mejor en esa zona. Elige a la empresa perfecta (que no se retrase y cobre justo, dando preferencia al cumplimiento del trabajo por encima del precio), hace el trato con ellos y se queda vigilando el camino del paquete para asegurarse de que llegue bien.
 
